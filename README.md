@@ -1,5 +1,6 @@
 ### *Hola! 👋 Soy Brenda* ✨✨✨
 
+
 #### Soy Ingeniera Química como formación de base con marcada experiencia en Gestión, Mejora Continua, manejo de KPIs y Desvíos.
 
 #### Apasionada por aprender nuevas tecnologías y aplicarlas adecuadamente para resolver problemas.
@@ -14,11 +15,11 @@
 
 ___
 
-***Tecnologías incorporadas:
+***Tecnologías incorporadas:***
 
-1.  Lenguaje de consulta: SQL
-2.  Visualización de datos: Power BI
-3.  Lenguaje de Programación: Python (en progreso)***
+***1.  Lenguaje de consulta: SQL***
+***2.  Visualización de datos: Power BI***
+***3.  Lenguaje de Programación: Python (en progreso)***
 
 
 <!--
