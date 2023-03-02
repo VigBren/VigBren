@@ -18,7 +18,9 @@ ___
 *Tecnologías incorporadas:*
 
 *1.  Lenguaje de consulta: SQL*
+
 *2.  Visualización de datos: Power BI*
+
 *3.  Lenguaje de Programación: Python (en progreso)*
 
 
