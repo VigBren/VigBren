@@ -1,16 +1,16 @@
 ### Hola! 👋 Soy Brenda ✨✨✨
 
-## Soy Ingeniera Química como formación de base con marcada experiencia en Gestión, Mejora Continua, manejo de KPIs y Desvíos.
+#### Soy Ingeniera Química como formación de base con marcada experiencia en Gestión, Mejora Continua, manejo de KPIs y Desvíos.
 
-Apasionada por aprender nuevas tecnologías y aplicarlas adecuadamente para resolver problemas.
+#### Apasionada por aprender nuevas tecnologías y aplicarlas adecuadamente para resolver problemas.
 
-Busco adentrarme en el mundo del análisis de datos. 
+#### Busco adentrarme en el mundo del análisis de datos. 
 
-Te invito a seguirme y ver mis proyectos.
+#### Te invito a seguirme y ver mis proyectos.
 
-No dudes en contactarme si así lo deseas.
+#### No dudes en contactarme si así lo deseas.
 
-+5492236335168
+                  ####+5492236335168   //   bre_1587@hotmail.com
 
 Tecnologías incorporadas:
 
