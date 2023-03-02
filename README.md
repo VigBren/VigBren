@@ -5,9 +5,9 @@
 
 ##### Apasionada por aprender nuevas tecnologías y aplicarlas adecuadamente para resolver problemas.
 
-##### Busco adentrarme en el mundo del análisis de datos. 
+##### ***Busco adentrarme en el mundo del análisis de datos.***
 
-##### Te invito a seguirme y ver mis proyectos.
+##### Te invito a seguirme y ver los proyectos que iré subiendo.
 
 ##### No dudes en contactarme si así lo deseas:
 
