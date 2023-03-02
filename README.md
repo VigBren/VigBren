@@ -1,6 +1,6 @@
-### Hola! 👋 Soy Brenda ✨✨✨
+### *Hola! 👋 Soy Brenda* ✨✨✨
 
-#### Soy Ingeniera Química como formación de base con marcada experiencia en Gestión, Mejora Continua, manejo de KPIs y Desvíos.
+#### *Soy Ingeniera Química como formación de base con marcada experiencia en Gestión, Mejora Continua, manejo de KPIs y Desvíos.
 
 #### Apasionada por aprender nuevas tecnologías y aplicarlas adecuadamente para resolver problemas.
 
@@ -8,15 +8,17 @@
 
 #### Te invito a seguirme y ver mis proyectos.
 
-#### No dudes en contactarme si así lo deseas.
+#### No dudes en contactarme si así lo deseas:*
 
-                  ####+5492236335168   //   bre_1587@hotmail.com
+####                 **>>>         +5492236335168   //    bre_1587@hotmail.com**
 
-Tecnologías incorporadas:
+___
 
-- Lenguaje de consulta: SQL
-- Visualización de datos: Power BI
-- Lenguaje de Programación: Python (en progreso)
+***Tecnologías incorporadas:
+
+1.  Lenguaje de consulta: SQL
+2.  Visualización de datos: Power BI
+3.  Lenguaje de Programación: Python (en progreso)***
 
 <!--
 **VigBren/VigBren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
