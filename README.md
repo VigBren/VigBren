@@ -11,7 +11,7 @@
 
 ##### No dudes en contactarme si así lo deseas:
 
-####                 >>>         +5492236335168   //    bre_1587@hotmail.com
+#####                            +5492236335168  ---   bre_1587@hotmail.com
 
 ___
 
