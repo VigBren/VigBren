@@ -1,6 +1,6 @@
 ### Hola! 👋 Soy Brenda ✨✨✨
 
-Soy Ingeniera Química como formación de base con marcada experiencia en Gestión, Mejora Continua, manejo de KPIs y Desvíos.
+## Soy Ingeniera Química como formación de base con marcada experiencia en Gestión, Mejora Continua, manejo de KPIs y Desvíos.
 
 Apasionada por aprender nuevas tecnologías y aplicarlas adecuadamente para resolver problemas.
 
