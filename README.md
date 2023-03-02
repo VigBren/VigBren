@@ -10,15 +10,15 @@
 
 #### No dudes en contactarme si así lo deseas:*
 
-####                 **>>>         +5492236335168   //    bre_1587@hotmail.com**
+####                 >>>         +5492236335168   //    bre_1587@hotmail.com
 
 ___
 
-***Tecnologías incorporadas:
+Tecnologías incorporadas:
 
 1.  Lenguaje de consulta: SQL
 2.  Visualización de datos: Power BI
-3.  Lenguaje de Programación: Python (en progreso)***
+3.  Lenguaje de Programación: Python (en progreso)
 
 <!--
 **VigBren/VigBren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
